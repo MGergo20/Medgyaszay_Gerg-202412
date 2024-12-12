@@ -1,0 +1,3 @@
+import bevezetes
+
+bevezetes.adatbekeres()
